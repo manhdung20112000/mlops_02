@@ -1,4 +1,4 @@
 [core]
     remote = mlops_02
 ['remote "mlops_02"']
-    url = https://drive.google.com/drive/u/2/folders/1zRUYE4dllc_rrsGR04PEoGjwuNVCIz59
+    url = gdrive://1zRUYE4dllc_rrsGR04PEoGjwuNVCIz59
